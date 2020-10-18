@@ -1,0 +1,23 @@
+{
+  "name": "react-boiler-plate",
+  "version": "1.0.0",
+  "description": "Creating Boiler Plate for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "REACTJS"
+  ],
+  "author": "Suhas Pindiproli",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.1.3",
+    "webpack-cli": "^4.0.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
